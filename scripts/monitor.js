@@ -14,11 +14,11 @@ const sites = [
   { name: 'Yue.to 悦通', url: 'https://my.yue.to' },
   { name: '星链机场', url: 'https://www.xn--mes995ajya725k.com' },
   { name: 'E-IX 机场', url: 'https://cdn.e-ix.org' },
-  { name: '极速云', url: 'https://www.jisuyun.com' },
-  { name: 'SSR Dog', url: 'https://www.ssrdog.com' },
-  { name: 'WgetCloud', url: 'https://www.wgetcloud.com' },
-  { name: 'FlyingBird', url: 'https://www.flyingbird.com' },
-  { name: '青云梯', url: 'https://www.qingyunti.com' }
+  { name: '极速云', url: 'https://web.jisujichang.net' },
+  { name: 'SSR Dog', url: 'https://dog.ssrdog.com' },
+  { name: 'WgetCloud', url: 'https://invite.wgetcloud.ltd' },
+  { name: 'FlyingBird', url: 'https://fbinv02.fbaff.cc' },
+  { name: '青云梯', url: 'https://qytcc01a.qingyunti.pro' }
 ];
 
 const DATA_DIR = path.join(__dirname, '..', 'status-data');
