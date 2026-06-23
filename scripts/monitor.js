@@ -16,7 +16,7 @@ const sites = [
   { name: 'E-IX 机场', url: 'https://cdn.e-ix.org' },
   { name: '极速云', url: 'https://web.jisujichang.net' },
   { name: 'SSR Dog', url: 'https://dog.ssrdog.com' },
-  { name: 'WgetCloud', url: 'https://invite.wgetcloud.ltd' },
+  { name: 'WgetCloud', url: 'https://b8cfff2a4jquxdbmwbaj.wgetcloud.org' },
   { name: 'FlyingBird', url: 'https://fbinv02.fbaff.cc' },
   { name: '青云梯', url: 'https://qytcc01a.qingyunti.pro' }
 ];
