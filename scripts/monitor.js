@@ -6,7 +6,7 @@ const path = require('path');
 const sites = [
   { name: 'TAG机场', url: 'https://tagss.pro' },
   { name: 'CoffeeCloud 咖啡云', url: 'https://aicoffee.app' },
-  { name: '肥猫云 (FatCat Cloud)', url: 'https://inv03.fcweba.cc' },
+  { name: '肥猫云 (FatCat Cloud)', url: ['https://a01.fcvipaffa07.cc', 'https://inv03.fcweba.cc/register?aff=6QXnYvlK'] },
   { name: 'Nexitally 奶昔机场', url: 'https://nxonearth.com' },
   { name: 'SNTP 守候网络', url: 'https://dash15.newsntp.net' },
   { name: 'BoostNet', url: 'https://999.boostnet1.com' },
@@ -71,13 +71,23 @@ async function run() {
 
   for (const site of sites) {
     console.log(`Checking ${site.name}...`);
-    const res = await ping(site.url);
+    
+    let urls = Array.isArray(site.url) ? site.url : [site.url];
+    let res = null;
+    for (let u of urls) {
+      let currentRes = await ping(u);
+      if (!res || currentRes.up) {
+        res = currentRes;
+        if (res.up) break;
+      }
+    }
+    
     console.log(`[${site.name}] Status: ${res.statusCode || res.error}, Up: ${res.up}, Time: ${res.time}ms`);
     
     // Find existing
     let siteHistory = history.find(s => s.name === site.name);
     if (!siteHistory) {
-      siteHistory = { name: site.name, url: site.url, logs: [] };
+      siteHistory = { name: site.name, url: Array.isArray(site.url) ? site.url[0] : site.url, logs: [] };
     }
     
     // Add new log
@@ -103,7 +113,7 @@ async function run() {
 
     results.push({
       name: site.name,
-      url: site.url,
+      url: Array.isArray(site.url) ? site.url[0] : site.url,
       status: res.up ? 'up' : 'down',
       time: res.time,
       avgTime: avgTime,
