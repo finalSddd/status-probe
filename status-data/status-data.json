@@ -3,7 +3,7 @@
     "name": "TAG机场",
     "url": "https://tagss.pro",
     "status": "up",
-    "time": 129,
+    "time": 170,
     "avgTime": 201,
     "uptime": "100.00",
     "logs": [
@@ -1546,6 +1546,11 @@
         "timestamp": "2026-08-07T06:47:56.923Z",
         "up": true,
         "time": 129
+      },
+      {
+        "timestamp": "2026-08-07T08:16:10.781Z",
+        "up": true,
+        "time": 170
       }
     ]
   },
@@ -1553,8 +1558,8 @@
     "name": "CoffeeCloud 咖啡云",
     "url": "https://aicoffee.app",
     "status": "up",
-    "time": 252,
-    "avgTime": 492,
+    "time": 345,
+    "avgTime": 491,
     "uptime": "99.68",
     "logs": [
       {
@@ -3096,6 +3101,11 @@
         "timestamp": "2026-08-07T06:47:56.923Z",
         "up": true,
         "time": 252
+      },
+      {
+        "timestamp": "2026-08-07T08:16:10.781Z",
+        "up": true,
+        "time": 345
       }
     ]
   },
@@ -3103,9 +3113,9 @@
     "name": "肥猫云 (FatCat Cloud)",
     "url": "https://a01.fcvipaffa07.cc",
     "status": "up",
-    "time": 264,
+    "time": 347,
     "avgTime": 396,
-    "uptime": "96.75",
+    "uptime": "96.76",
     "logs": [
       {
         "timestamp": "2026-06-23T07:13:09.300Z",
@@ -4646,6 +4656,11 @@
         "timestamp": "2026-08-07T06:47:56.923Z",
         "up": true,
         "time": 264
+      },
+      {
+        "timestamp": "2026-08-07T08:16:10.781Z",
+        "up": true,
+        "time": 347
       }
     ]
   },
@@ -4653,7 +4668,7 @@
     "name": "Nexitally 奶昔机场",
     "url": "https://nxonearth.com",
     "status": "up",
-    "time": 52,
+    "time": 121,
     "avgTime": 137,
     "uptime": "100.00",
     "logs": [
@@ -6196,6 +6211,11 @@
         "timestamp": "2026-08-07T06:47:56.923Z",
         "up": true,
         "time": 52
+      },
+      {
+        "timestamp": "2026-08-07T08:16:10.781Z",
+        "up": true,
+        "time": 121
       }
     ]
   },
@@ -6203,9 +6223,9 @@
     "name": "SNTP 守候网络",
     "url": "https://dash15.newsntp.net",
     "status": "up",
-    "time": 853,
-    "avgTime": 788,
-    "uptime": "97.40",
+    "time": 1063,
+    "avgTime": 789,
+    "uptime": "97.41",
     "logs": [
       {
         "timestamp": "2026-06-23T07:13:09.300Z",
@@ -7746,6 +7766,11 @@
         "timestamp": "2026-08-07T06:47:56.923Z",
         "up": true,
         "time": 853
+      },
+      {
+        "timestamp": "2026-08-07T08:16:10.781Z",
+        "up": true,
+        "time": 1063
       }
     ]
   },
@@ -7753,7 +7778,7 @@
     "name": "BoostNet",
     "url": "https://999.boostnet1.com",
     "status": "up",
-    "time": 124,
+    "time": 169,
     "avgTime": 251,
     "uptime": "100.00",
     "logs": [
@@ -9296,6 +9321,11 @@
         "timestamp": "2026-08-07T06:47:56.923Z",
         "up": true,
         "time": 124
+      },
+      {
+        "timestamp": "2026-08-07T08:16:10.781Z",
+        "up": true,
+        "time": 169
       }
     ]
   },
@@ -9303,7 +9333,7 @@
     "name": "NiceCloud 耐思云",
     "url": "https://nicecloud.co",
     "status": "up",
-    "time": 824,
+    "time": 1000,
     "avgTime": 944,
     "uptime": "99.68",
     "logs": [
@@ -10846,6 +10876,11 @@
         "timestamp": "2026-08-07T06:47:56.923Z",
         "up": true,
         "time": 824
+      },
+      {
+        "timestamp": "2026-08-07T08:16:10.781Z",
+        "up": true,
+        "time": 1000
       }
     ]
   },
@@ -10853,7 +10888,7 @@
     "name": "Yue.to 悦通",
     "url": "https://my.yue.to",
     "status": "up",
-    "time": 34,
+    "time": 86,
     "avgTime": 81,
     "uptime": "100.00",
     "logs": [
@@ -12396,6 +12431,11 @@
         "timestamp": "2026-08-07T06:47:56.923Z",
         "up": true,
         "time": 34
+      },
+      {
+        "timestamp": "2026-08-07T08:16:10.781Z",
+        "up": true,
+        "time": 86
       }
     ]
   },
@@ -12403,7 +12443,7 @@
     "name": "星链机场",
     "url": "https://www.xn--mes995ajya725k.com",
     "status": "up",
-    "time": 266,
+    "time": 66,
     "avgTime": 218,
     "uptime": "100.00",
     "logs": [
@@ -13946,6 +13986,11 @@
         "timestamp": "2026-08-07T06:47:56.923Z",
         "up": true,
         "time": 266
+      },
+      {
+        "timestamp": "2026-08-07T08:16:10.781Z",
+        "up": true,
+        "time": 66
       }
     ]
   },
@@ -13953,7 +13998,7 @@
     "name": "E-IX 机场",
     "url": "https://cdn.e-ix.org",
     "status": "up",
-    "time": 43,
+    "time": 55,
     "avgTime": 166,
     "uptime": "100.00",
     "logs": [
@@ -15496,6 +15541,11 @@
         "timestamp": "2026-08-07T06:47:56.923Z",
         "up": true,
         "time": 43
+      },
+      {
+        "timestamp": "2026-08-07T08:16:10.781Z",
+        "up": true,
+        "time": 55
       }
     ]
   },
@@ -15503,7 +15553,7 @@
     "name": "极速云",
     "url": "https://web.jisujichang.net",
     "status": "up",
-    "time": 656,
+    "time": 967,
     "avgTime": 859,
     "uptime": "99.68",
     "logs": [
@@ -17046,6 +17096,11 @@
         "timestamp": "2026-08-07T06:47:56.923Z",
         "up": true,
         "time": 656
+      },
+      {
+        "timestamp": "2026-08-07T08:16:10.781Z",
+        "up": true,
+        "time": 967
       }
     ]
   },
@@ -17053,7 +17108,7 @@
     "name": "SSR Dog",
     "url": "https://dog.ssrdog.com",
     "status": "up",
-    "time": 345,
+    "time": 599,
     "avgTime": 553,
     "uptime": "99.68",
     "logs": [
@@ -18596,6 +18651,11 @@
         "timestamp": "2026-08-07T06:47:56.923Z",
         "up": true,
         "time": 345
+      },
+      {
+        "timestamp": "2026-08-07T08:16:10.781Z",
+        "up": true,
+        "time": 599
       }
     ]
   },
@@ -18603,7 +18663,7 @@
     "name": "WgetCloud",
     "url": "https://b8cfff2a4jquxdbmwbaj.wgetcloud.org",
     "status": "up",
-    "time": 655,
+    "time": 862,
     "avgTime": 817,
     "uptime": "99.35",
     "logs": [
@@ -20146,6 +20206,11 @@
         "timestamp": "2026-08-07T06:47:56.923Z",
         "up": true,
         "time": 655
+      },
+      {
+        "timestamp": "2026-08-07T08:16:10.781Z",
+        "up": true,
+        "time": 862
       }
     ]
   },
@@ -20153,7 +20218,7 @@
     "name": "FlyingBird",
     "url": "https://fbinv02.fbaff.cc",
     "status": "up",
-    "time": 471,
+    "time": 633,
     "avgTime": 594,
     "uptime": "99.35",
     "logs": [
@@ -21696,6 +21761,11 @@
         "timestamp": "2026-08-07T06:47:56.923Z",
         "up": true,
         "time": 471
+      },
+      {
+        "timestamp": "2026-08-07T08:16:10.781Z",
+        "up": true,
+        "time": 633
       }
     ]
   },
@@ -21703,8 +21773,8 @@
     "name": "青云梯",
     "url": "https://qytcc01a.qingyunti.pro",
     "status": "up",
-    "time": 41,
-    "avgTime": 128,
+    "time": 84,
+    "avgTime": 127,
     "uptime": "99.68",
     "logs": [
       {
@@ -23246,6 +23316,11 @@
         "timestamp": "2026-08-07T06:47:56.923Z",
         "up": true,
         "time": 41
+      },
+      {
+        "timestamp": "2026-08-07T08:16:10.781Z",
+        "up": true,
+        "time": 84
       }
     ]
   }
